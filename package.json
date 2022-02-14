@@ -1,0 +1,24 @@
+{
+    "name": "frox",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "dotenv": "^8.2.0"
+    },
+    "scripts": {
+        "start": "node ./app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SQZ777/discord_bot_for_blog.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/SQZ777/discord_bot_for_blog/issues"
+    },
+    "homepage": "https://github.com/SQZ777/discord_bot_for_blog#readme"
+}
